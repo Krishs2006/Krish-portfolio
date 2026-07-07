@@ -143,6 +143,7 @@ nav {
   /* text-align: center; */
   font-size: larger;
   padding-left: 60px;
+  font-family: sans-serif;
   /* text-align: center; */
   /* padding-top: 200px; */
   display: flex;
@@ -436,7 +437,7 @@ button:hover {
 
   display: flex;
   flex-direction: column;
-  gap: 80px;
+  gap: 10px;
 }
 
 
@@ -452,7 +453,7 @@ button:hover {
 
 .card {
   width: 40%;
-  padding: 20px;
+  padding: 30px;
   margin: 30px 0;
   background: #1b1b1b;
   border: 1px solid #7cffb2;
